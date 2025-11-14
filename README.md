@@ -1,0 +1,2 @@
+# course
+i hate c#
